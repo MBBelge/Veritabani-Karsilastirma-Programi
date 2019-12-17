@@ -1,0 +1,14 @@
+c:\users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\bin\Debug\Staj5.exe.config
+C:\Users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\bin\Debug\Staj5.exe
+C:\Users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\bin\Debug\Staj5.pdb
+C:\Users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\obj\Debug\Staj5.Properties.Resources.resources
+C:\Users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\obj\Debug\Staj5.csproj.GenerateResource.Cache
+C:\Users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\obj\Debug\Staj5.exe
+C:\Users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\obj\Debug\Staj5.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Staj5\Staj5\obj\Debug\Staj5.AnaForm.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Staj5\Staj5\obj\Debug\Staj5.Login.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Staj5\Staj5\obj\Debug\Staj5.Ayarlar.resources
+D:\Users\acer\Documents\Visual Studio 2015\Projects\Staj5\Staj5\bin\Debug\Staj5.exe.config
+D:\Users\acer\Documents\Visual Studio 2015\Projects\Staj5\Staj5\obj\Debug\Staj5.exe
+D:\Users\acer\Documents\Visual Studio 2015\Projects\Staj5\Staj5\obj\Debug\Staj5.pdb
+C:\Users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\obj\Debug\Staj5.csprojResolveAssemblyReference.cache
