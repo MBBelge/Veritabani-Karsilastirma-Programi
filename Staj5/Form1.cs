@@ -180,7 +180,6 @@ namespace Staj5
             {
                 try
                 {
-
                     baglanti1 = new SqlConnection(baglanti1string);
                     baglanti2 = new SqlConnection(baglanti2string);
 
