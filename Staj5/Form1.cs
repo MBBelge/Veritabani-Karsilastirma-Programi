@@ -1153,7 +1153,7 @@ namespace Staj5
                 }
                 MailMessage mail = new MailMessage();
                 mail.From = new MailAddress("noreply@program.net");
-                mail.To.Add("berkbinnur@hotmail.com");
+                mail.To.Add("noreply@program.net");
                 mail.Attachments.Add(new Attachment(kaydet.FileName));
                 mail.Body = DateTime.Now.ToString();
 
@@ -1161,13 +1161,11 @@ namespace Staj5
                 smtp.Port = 587;
                 smtp.Host = "smtp.gmail.com";
                 smtp.EnableSsl = true;
-                smtp.Credentials = new NetworkCredential("mbb3393@gmail.com", "EbZeGrIk8");
+                smtp.Credentials = new NetworkCredential("noreply@program.net", "sifre");
 
                 smtp.Send(mail);
             }
         }
-
-
 
         private void button2_Click(object sender, EventArgs e)
         {
