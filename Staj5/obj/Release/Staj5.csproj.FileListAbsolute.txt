@@ -1,0 +1,10 @@
+C:\Users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\bin\Release\Staj5.exe.config
+C:\Users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\bin\Release\Staj5.exe
+C:\Users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\bin\Release\Staj5.pdb
+C:\Users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\obj\Release\Staj5.Form1.resources
+C:\Users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\obj\Release\Staj5.Properties.Resources.resources
+C:\Users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\obj\Release\Staj5.csproj.GenerateResource.Cache
+C:\Users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\obj\Release\Staj5.exe
+C:\Users\acer\documents\visual studio 2015\Projects\Staj5\Staj5\obj\Release\Staj5.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Staj5\Staj5\obj\Release\Staj5.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\Staj5\Staj5\obj\Release\Staj5.csprojAssemblyReference.cache
